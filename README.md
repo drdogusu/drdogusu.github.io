@@ -4,4 +4,4 @@
 
 At the moment, I'm exploring Narrative in Virtual Reality, Interactive Storytelling, Virtual Environments.
 
-![Me]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/drdogusu/drdogusu.github.io/blob/main/WhatsApp%20Image%202024-08-10%20at%2020.36.01_5a7042ef.jpg?raw=true))
+![Me]()
